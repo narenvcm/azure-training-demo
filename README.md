@@ -11,4 +11,3 @@
     docker tag java-app demo-app:java-1.0
     
 ##
-
